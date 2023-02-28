@@ -51,7 +51,7 @@ const mensajeDeError = {
       },
       estado: {
         valueMissing: "El campo estado no puede estar vacío",
-        patternMismatch: "El estado debe contener entre 4 a 30 caracteres.",
+        patternMismatch: "El estado debe contener entre 4 a 3git0 caracteres.",
       },
 
 };
